@@ -1,0 +1,15 @@
+Current time: 1614175264998 Occupancy: 39
+Current time: 1614175294557 Occupancy: 39
+Current time: 1614175328723 Occupancy: 39
+Current time: 1614175354047 Occupancy: 97
+Current time: 1614175452859 Occupancy: 39
+Current time: 1614175519432 Occupancy: 39
+Current time: 1614175519432 Occupancy: 97
+Current time: 1614175519432 Occupancy: 68
+Current time: 1614175519432 Occupancy: 110
+Current time: 1614175519432 Occupancy: 116
+Current time: 1614175519432 Occupancy: 77
+Current time: 1614175519432 Occupancy: 54
+Current time: 1614175519432 Occupancy: 144
+Current time: 1614175519432 Occupancy: 254
+Current time: 1614175519432 Occupancy: 240
